@@ -28,7 +28,7 @@ const Animals = ({animals, onAnimalClick}) => (
 )
 
 Animals.propTypes = {
-    animallist: PropTypes.arrayOf(PropTypes.shape({
+    animals: PropTypes.arrayOf(PropTypes.shape({
         id: PropTypes.number.isRequired,
         name: PropTypes.string.isRequired,
         species: PropTypes.string.isRequired
