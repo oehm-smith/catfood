@@ -3,6 +3,7 @@ import logo from '../catdog.svg';
 import '../App.css';
 import Foods from './Foods';
 import AnimalsContainer from "../containers/AnimalsContainer";
+import Footer from "./Footer";
 
 const App = () => (
     <div className="App">
@@ -14,6 +15,7 @@ const App = () => (
         </div>
         <AnimalsContainer />
         <Foods />
+        <Footer />
     </div>
 )
 
