@@ -1,7 +1,20 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+Catfood captcher is to capture the foods your animals like and don't like.
+
+This is my first react-redux application.
+
+The React framework was created using `create react app` as described below.  
+The outline structure of the react-redux app based on [Dan Abramov](https://github.com/gaearon)'s ToDoList example
+
+- https://github.com/reactjs/redux/tree/master/examples/todos
+
+There is a running version at [https://projects.tintuna.com/catfood.](https://projects.tintuna.com/catfood)  
+
+----
+
+This project was bootstrapped with [Create React App.](https://github.com/facebookincubator/create-react-app)
 
 Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+You can find the most recent version of this guide [here.](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md)
 
 ## Table of Contents
 
