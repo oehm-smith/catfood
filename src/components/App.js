@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../logo.svg';
+import logo from '../catdog.svg';
 import '../App.css';
 import Foods from './Foods';
 import AnimalsContainer from "../containers/AnimalsContainer";
