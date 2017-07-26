@@ -26,3 +26,18 @@
         transform: rotate(360deg);
     }
 }
+
+table {
+    border: 1px solid mediumvioletred;
+}
+
+th {
+    width: 20%;
+    border: 1px solid orangered;
+    background-color: #bbb;
+}
+
+td {
+    width: 20%;
+    background-color: #eee ;
+}

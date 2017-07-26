@@ -1,10 +1,10 @@
 import { combineReducers } from 'redux';
-import catfood from './catfood';
 import animals from "./animals";
+import foods from "./foods";
 
 const catFoodApp = combineReducers({
     animals,
-    catfood
+    foods
 })
 
 export default catFoodApp

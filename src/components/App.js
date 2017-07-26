@@ -1,8 +1,8 @@
 import React from 'react'
 import logo from '../catdog.svg';
 import '../App.css';
-import Foods from './Foods';
-import AnimalsContainer from "../containers/AnimalsContainer";
+import FoodsContainer from '../containers/FoodsContainer';
+import AnimalsContainer from '../containers/AnimalsContainer';
 import Footer from "./Footer";
 
 const App = () => (
@@ -14,7 +14,7 @@ const App = () => (
             <p>This is my first react-redux application.</p>
         </div>
         <AnimalsContainer />
-        <Foods />
+        <FoodsContainer />
         <Footer />
     </div>
 )
